@@ -1,4 +1,4 @@
-# thatsme
+# sou_eu
 
 ## Crachá personalizado com dados do github e/ou QRcodes dos perfis do Facebook e Instagram
 
@@ -10,7 +10,7 @@
 
 ![Usuário + QRcode do Github](https://raw.githubusercontent.com/WendelSantosNunes/thatsme/main/demo/UB.png)
 
-O thatsme foi criado em python3.8. O sistema pode ser usado em Windows, Linux e Mac.
+O sou_eu foi criado em python3.8. O sistema pode ser usado em Windows, Linux e Mac.
 
 Colaboradores: <br />
 
@@ -19,10 +19,10 @@ Colaboradores: <br />
 
 ### Descrição:
 
-> O thatsme é um pacote criado durante a disciplina de Programação Orientada a Objetos 2 (POO2), ministrada no curso de Sistema de Informação na Universidade Federal do Piauí-CSHNB.
+> O sou_eu é um pacote criado durante a disciplina de Programação Orientada a Objetos 2 (POO2), ministrada no curso de Sistema de Informação na Universidade Federal do Piauí-CSHNB.
 > Não há intuito comercial, ou governamental.
-> O thatsme foi produzido para fins de aprendizado e experiência em desenvolvimento de pacotes, contudo pode ser utilizado por qualquer usuário do Github que tenha interesse. O projeto possui a Licença do MIT disponibilizada pelo próprio Github.
-> O thatsme pode ser utilizado como cartão virtual, em formato PDF, para qualquer pessoa física/jurídica que queira compartilhar suas informações de contato de forma padronizada, elegante e eficiente.
+> O sou_eu foi produzido para fins de aprendizado e experiência em desenvolvimento de pacotes, contudo pode ser utilizado por qualquer usuário do Github que tenha interesse. O projeto possui a Licença do MIT disponibilizada pelo próprio Github.
+> O sou_eu pode ser utilizado como cartão virtual, em formato PDF, para qualquer pessoa física/jurídica que queira compartilhar suas informações de contato de forma padronizada, elegante e eficiente.
 
 ## Requisitos:
 
