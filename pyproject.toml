@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "sou_eu"
-version = "0.1.1"
+version = "0.1.2"
 description = "Pacote que gera crachá em pdf através do nome de usuário do Github com seus dados (Avatar e Bio) e, qrcode de redes sociais (Facebook, Instagram)."
 authors = ["Wendel dos Santos Nunes <wendelnunes9999@gmail.com>"]
 
