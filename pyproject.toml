@@ -1,8 +1,16 @@
 [tool.poetry]
 name = "sou_eu"
-version = "0.1.2"
+version = "0.1.3"
 description = "Pacote que gera crachá em pdf através do nome de usuário do Github com seus dados (Avatar e Bio) e, qrcode de redes sociais (Facebook, Instagram)."
 authors = ["Wendel dos Santos Nunes <wendelnunes9999@gmail.com>"]
+
+long_description = file: README.md
+long_description_content_type = text/markdown
+url = https://github.com/WendelSantosNunes/sou_eu
+classifiers = 
+    Programming Language :: Python :: 3
+    License :: OSI Approved :: MIT License
+    Operating System :: OS Independent
 
 [tool.poetry.dependencies]
 python = "^3.8"
